@@ -1,0 +1,8 @@
+wheel>=0.29.0
+setuptools>=28.0.0
+skbuild
+dlib
+face_recognition
+opencv-python-headless
+imutils
+urllib3
